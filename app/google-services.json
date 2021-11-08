@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075151380596",
+    "project_id": "requintesrestaurante-c6b8b",
+    "storage_bucket": "requintesrestaurante-c6b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075151380596:android:7fdf776c856d542cee7121",
+        "android_client_info": {
+          "package_name": "com.deny.requintesrestaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075151380596-vi8eu7tvpt721boudeuafopt16gpppba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deny.requintesrestaurante",
+            "certificate_hash": "a93dd328be732a6c02efac788adfe483be28d553"
+          }
+        },
+        {
+          "client_id": "1075151380596-bdgom2lm0mhruspc7eh0bkvvpakhpiar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPX_gOCUZD-PfIkI1NhaUbzjocDmh2bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075151380596-bdgom2lm0mhruspc7eh0bkvvpakhpiar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
